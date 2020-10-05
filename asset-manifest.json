@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/Myportfolio/static/css/main.dd59e4ea.chunk.css",
-    "main.js": "/Myportfolio/static/js/main.bcd8d3c8.chunk.js",
-    "main.js.map": "/Myportfolio/static/js/main.bcd8d3c8.chunk.js.map",
+    "main.js": "/Myportfolio/static/js/main.dca38df6.chunk.js",
+    "main.js.map": "/Myportfolio/static/js/main.dca38df6.chunk.js.map",
     "runtime-main.js": "/Myportfolio/static/js/runtime-main.1f7d9b5e.js",
     "runtime-main.js.map": "/Myportfolio/static/js/runtime-main.1f7d9b5e.js.map",
-    "static/js/2.f7310c7d.chunk.js": "/Myportfolio/static/js/2.f7310c7d.chunk.js",
-    "static/js/2.f7310c7d.chunk.js.map": "/Myportfolio/static/js/2.f7310c7d.chunk.js.map",
+    "static/js/2.954c1317.chunk.js": "/Myportfolio/static/js/2.954c1317.chunk.js",
+    "static/js/2.954c1317.chunk.js.map": "/Myportfolio/static/js/2.954c1317.chunk.js.map",
     "index.html": "/Myportfolio/index.html",
-    "precache-manifest.9780494daefe8005276396a53917c3bb.js": "/Myportfolio/precache-manifest.9780494daefe8005276396a53917c3bb.js",
+    "precache-manifest.ed4c16aa8226f34f1cb39b0d40edec27.js": "/Myportfolio/precache-manifest.ed4c16aa8226f34f1cb39b0d40edec27.js",
     "service-worker.js": "/Myportfolio/service-worker.js",
     "static/css/main.dd59e4ea.chunk.css.map": "/Myportfolio/static/css/main.dd59e4ea.chunk.css.map",
-    "static/js/2.f7310c7d.chunk.js.LICENSE.txt": "/Myportfolio/static/js/2.f7310c7d.chunk.js.LICENSE.txt",
+    "static/js/2.954c1317.chunk.js.LICENSE.txt": "/Myportfolio/static/js/2.954c1317.chunk.js.LICENSE.txt",
+    "static/media/Capture.PNG": "/Myportfolio/static/media/Capture.b1e5b460.PNG",
     "static/media/Infosys.svg": "/Myportfolio/static/media/Infosys.b3e3ac0e.svg",
-    "static/media/Robofriends.webp": "/Myportfolio/static/media/Robofriends.9730fefc.webp",
     "static/media/background.webp": "/Myportfolio/static/media/background.bf989778.webp",
     "static/media/contact-form.style.css": "/Myportfolio/static/media/background.e95d0563.webp",
     "static/media/bootstrap-4.svg": "/Myportfolio/static/media/bootstrap-4.ffded238.svg",
-    "static/media/brain.webp": "/Myportfolio/static/media/brain.db3c445b.webp",
     "static/media/css3.svg": "/Myportfolio/static/media/css3.3707da3c.svg",
     "static/media/digital-ocean.svg": "/Myportfolio/static/media/digital-ocean.add23917.svg",
     "static/media/django.svg": "/Myportfolio/static/media/django.bcf22073.svg",
@@ -36,9 +35,7 @@
     "static/media/material-ui-1.svg": "/Myportfolio/static/media/material-ui-1.82291019.svg",
     "static/media/mssql.svg": "/Myportfolio/static/media/mssql.54d7bddc.svg",
     "static/media/nodejs.svg": "/Myportfolio/static/media/nodejs.a1231528.svg",
-    "static/media/portfolioUsingDjango.webp": "/Myportfolio/static/media/portfolioUsingDjango.95dd3e00.webp",
     "static/media/postgresql.svg": "/Myportfolio/static/media/postgresql.d7c985e7.svg",
-    "static/media/product_hunt_clone.webp": "/Myportfolio/static/media/product_hunt_clone.4bef4c3e.webp",
     "static/media/python.svg": "/Myportfolio/static/media/python.146716bd.svg",
     "static/media/pythonanywhere.svg": "/Myportfolio/static/media/pythonanywhere.2a5335d5.svg",
     "static/media/react-bootstrap.svg": "/Myportfolio/static/media/react-bootstrap.83fe61b0.svg",
@@ -53,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1f7d9b5e.js",
-    "static/js/2.f7310c7d.chunk.js",
+    "static/js/2.954c1317.chunk.js",
     "static/css/main.dd59e4ea.chunk.css",
-    "static/js/main.bcd8d3c8.chunk.js"
+    "static/js/main.dca38df6.chunk.js"
   ]
 }

@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fd30b69b53f2341a83c2cf0e5677848",
+    "revision": "73aed2c33c5a77733f45ba73f5efbdfe",
     "url": "/Myportfolio/index.html"
   },
   {
-    "revision": "3dff6e09878aa364d918",
+    "revision": "edadb2610457fa071953",
     "url": "/Myportfolio/static/css/main.dd59e4ea.chunk.css"
   },
   {
-    "revision": "f187288a9e6a560a5700",
-    "url": "/Myportfolio/static/js/2.f7310c7d.chunk.js"
+    "revision": "b224dd2f78daabea0ec3",
+    "url": "/Myportfolio/static/js/2.954c1317.chunk.js"
   },
   {
     "revision": "2069192f75c6f3fb6247231eea52f248",
-    "url": "/Myportfolio/static/js/2.f7310c7d.chunk.js.LICENSE.txt"
+    "url": "/Myportfolio/static/js/2.954c1317.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3dff6e09878aa364d918",
-    "url": "/Myportfolio/static/js/main.bcd8d3c8.chunk.js"
+    "revision": "edadb2610457fa071953",
+    "url": "/Myportfolio/static/js/main.dca38df6.chunk.js"
   },
   {
     "revision": "ba25710aec57c1da7626",
     "url": "/Myportfolio/static/js/runtime-main.1f7d9b5e.js"
   },
   {
-    "revision": "b3e3ac0e2458f3556e66bdb5c14a9f8e",
-    "url": "/Myportfolio/static/media/Infosys.b3e3ac0e.svg"
+    "revision": "b1e5b4605e0662f2c66cf72c28407a52",
+    "url": "/Myportfolio/static/media/Capture.b1e5b460.PNG"
   },
   {
-    "revision": "9730fefc26bb187c4f4bb29b95d82e7a",
-    "url": "/Myportfolio/static/media/Robofriends.9730fefc.webp"
+    "revision": "b3e3ac0e2458f3556e66bdb5c14a9f8e",
+    "url": "/Myportfolio/static/media/Infosys.b3e3ac0e.svg"
   },
   {
     "revision": "bf989778565c49da91f9e0ef13dbdc5c",
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ffded2381d25dd906406d6e07f91dea5",
     "url": "/Myportfolio/static/media/bootstrap-4.ffded238.svg"
-  },
-  {
-    "revision": "db3c445b93fa7336d63f617a5f087c7e",
-    "url": "/Myportfolio/static/media/brain.db3c445b.webp"
   },
   {
     "revision": "3707da3c6a394c7ee2523273f8d98a25",
@@ -120,16 +116,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Myportfolio/static/media/nodejs.a1231528.svg"
   },
   {
-    "revision": "95dd3e00f0920b6bed086d4a30d5b027",
-    "url": "/Myportfolio/static/media/portfolioUsingDjango.95dd3e00.webp"
-  },
-  {
     "revision": "d7c985e7cca077dc2d77f89a66573e35",
     "url": "/Myportfolio/static/media/postgresql.d7c985e7.svg"
-  },
-  {
-    "revision": "4bef4c3e368bd761b543e597d90b79bc",
-    "url": "/Myportfolio/static/media/product_hunt_clone.4bef4c3e.webp"
   },
   {
     "revision": "146716bdf1a351db5705ec1e6a25ed08",
